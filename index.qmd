@@ -210,13 +210,13 @@ toc: false
        CONNECT SECTION
        ========================= -->
 
-  <div style="margin-top:32px; border-top:2px solid #1a2744; padding-top:16px;">
+  <div style="margin-top:32px; border-top:2px solid #1a2744; padding-top:16px; text-align:center;">
 
     <div style="font-size:1rem; font-weight:600; color:#1a2744; margin-bottom:12px;">
       Connect with me
     </div>
 
-    <div style="display:flex; gap:10px; flex-wrap:wrap;">
+    <div style="display:flex; gap:10px; flex-wrap:wrap;justify-content:center;">
 
       <a
         href="mailto:LeoAllen@spu.edu"
@@ -226,12 +226,12 @@ toc: false
       </a>
 
       <a
-        href="https://twitter.com/allenquaye"
+        href="https://x.com/allenquaye"
         style="font-size:0.82rem; color:#1a2744; text-decoration:none; border:1px solid #1a2744; padding:5px 12px; border-radius:4px;"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Twitter
+        X
       </a>
 
       <a
