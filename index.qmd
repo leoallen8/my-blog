@@ -20,7 +20,7 @@ toc: false
 .profile-image {
   width: 350px;
   height: 350px;
-  margin-top: 10px;
+  margin-top: 30px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center 20%;
@@ -147,6 +147,8 @@ toc: false
 <!-- =========================
      PROFILE SECTION
      ========================= -->
+  <div style="margin-top:32px; border-top:2px solid #1a2744; padding-top:16px;">
+</div>
 
 <div class="profile-section">
 
