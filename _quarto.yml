@@ -24,9 +24,9 @@ website:
             href: big-data-ml.qmd
           - text: "Time Series Forecasting"
             href: time-series.qmd
-    right:
-      - href: cv.qmd
-        text: CV
+    #right:
+    #  - href: cv.qmd
+    #    text: CV
 
 format:
   html:
