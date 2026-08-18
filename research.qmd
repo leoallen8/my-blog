@@ -1,0 +1,76 @@
+---
+title: "Research"
+page-layout: full
+toc: false
+---
+
+<div style="max-width:900px; margin:40px auto; padding:0 20px;">
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px;">Peer-Reviewed Journals</div>
+
+<div style="border-left:3px solid #1a2744; padding:12px 16px; margin-bottom:16px; background:#f8f9fc; border-radius:0 8px 8px 0;">
+<div style="font-size:0.95rem; font-weight:600; color:#1a2744; margin-bottom:4px;">Impact of Formal Household Land Ownership on Farm Productivity and Agriculture as a Primary Occupation of Youth in Ghana</div>
+<div style="font-size:0.85rem; color:#555; margin-bottom:4px;">Quaye, L.-A., and  Kostandini, G.</div>
+<div style="font-size:0.85rem; color:#555; margin-bottom:8px;"><em>Agribusiness</em>, 0: e70134 · 2026</div>
+<span style="background:#1a2744; color:white; font-size:0.75rem; padding:2px 10px; border-radius:4px;">Development Economics</span>
+<span style="background:#1a2744; color:white; font-size:0.75rem; padding:2px 10px; border-radius:4px; margin-left:6px;">Agribusiness</span>
+<a href="https://doi.org/10.1002/agr.70134" target="_blank" style="font-size:0.75rem; color:#1a2744; border:1px solid #1a2744; padding:2px 10px; border-radius:4px; text-decoration:none; margin-left:6px;">View Paper</a>
+</div>
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px; margin-top:32px;">Working Papers</div>
+
+<div style="border-left:3px solid #1a2744; padding:12px 16px; margin-bottom:16px; background:#f8f9fc; border-radius:0 8px 8px 0;">
+<div style="font-size:0.95rem; font-weight:600; color:#1a2744; margin-bottom:4px;">Exploring the Dynamics of the El Niño Southern Oscillation and Food Commodity Prices</div>
+<div style="font-size:0.85rem; color:#555; margin-bottom:8px;">This study investigates the impact of ENSO on five major commodity prices from 1980 to 2022, using Smooth Transition Autoregressive (STAR) and Smooth Transition Vector Error Correction (STVECM) models to capture nonlinear dynamics and regime shifts triggered by ENSO shocks. Severe temperature deviations are associated with 10&ndash;20% price changes, with warmer phases (El Niño) generally lowering prices and cooler phases (La Niña) raising them &mdash; findings with significant implications for food security in import-dependent, low-income countries.</div>
+<span style="background:#1a2744; color:white; font-size:0.75rem; padding:2px 10px; border-radius:4px;">Time Series</span>
+<span style="background:#1a2744; color:white; font-size:0.75rem; padding:2px 10px; border-radius:4px; margin-left:6px;">Food Security</span>
+<span style="background:#1a2744; color:white; font-size:0.75rem; padding:2px 10px; border-radius:4px; margin-left:6px;">Under Review</span>
+</div>
+
+<div style="border-left:3px solid #1a2744; padding:12px 16px; margin-bottom:16px; background:#f8f9fc; border-radius:0 8px 8px 0;">
+<div style="font-size:0.95rem; font-weight:600; color:#1a2744; margin-bottom:4px;">Down the Mississippi: How Barge Rates Affect Corn Basis</div>
+<div style="font-size:0.85rem; color:#555; margin-bottom:8px;">Using weekly data from 2014 to 2024, this study applies a Spatial Durbin Model (SDM) with spatial and time fixed effects to examine how barge freight rates influence corn basis along the Mississippi River. Rising freight rates are associated with declining local corn basis, and significant spillover effects show that rate changes in one region affect basis values in neighboring markets.</div>
+<span style="background:#1a2744; color:white; font-size:0.75rem; padding:2px 10px; border-radius:4px;">Agricultural Economics</span>
+<span style="background:#1a2744; color:white; font-size:0.75rem; padding:2px 10px; border-radius:4px; margin-left:6px;">Spatial Econometrics</span>
+</div>
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px; margin-top:32px;">Policy Papers</div>
+
+<div style="border-left:3px solid #1a2744; padding:12px 16px; margin-bottom:16px; background:#f8f9fc; border-radius:0 8px 8px 0;">
+<div style="font-size:0.95rem; font-weight:600; color:#1a2744; margin-bottom:4px;">Cost-benefit Analysis of WFP's Food Assistance for Assets Projects: Evidence from Rwanda and Zimbabwe</div>
+<div style="font-size:0.85rem; color:#555; margin-bottom:8px;">Gupta, A. and Quaye, L.-A. · UN World Food Programme · April 5, 2022</div>
+</div>
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px; margin-top:32px;">Non-Peer Reviewed Online Publications</div>
+
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div style="margin-bottom:8px;">Abedin, N., Alwang, J., Chen, S., Fan, F., Liverpool, A., Navarette, J., Posadas, B., Quaye, L., &amp; Tajanpure, P. (2022). <a href="https://aaec-vt.shinyapps.io/dspg22Zimbabwe/" style="color:#1a2744;" target="_blank">Using Remote Sensed Data For Social &amp; Economic Decision Making In Zimbabwe</a>. University of Virginia Biocomplexity Institute.</div>
+<div style="margin-bottom:8px;">Gupta, A., Kahsai, M., Pierce, T., Prisbe, C., Quaye, L., &amp; Toure, M. (2021). <a href="https://aaec-vt.shinyapps.io/Rappahannock/" style="color:#1a2744;" target="_blank">Availability of Services: Evolving Demographics, Housing, &amp; Traffic in Rappahannock County, VA</a>. University of Virginia Biocomplexity Institute.</div>
+</div>
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px; margin-top:32px;">Research Projects</div>
+
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div style="margin-bottom:8px;">Data Science for the Public Good Project &mdash; "<a href="https://aaec-vt.shinyapps.io/dspg22Zimbabwe/" style="color:#1a2744;" target="_blank">Using Remote Sensed Data for Social &amp; Economic Decision Making in Zimbabwe</a>," University of Virginia Biocomplexity Institute (Summer 2022)</div>
+<div style="margin-bottom:8px;">"Cost-benefit Analysis of WFP's Food Assistance for Assets projects: Evidence from Rwanda and Zimbabwe" with Anubhab Gupta (Fall 2021 &ndash; Spring 2022)</div>
+<div style="margin-bottom:8px;">Data Science for the Public Good Project &mdash; "<a href="https://aaec-vt.shinyapps.io/Rappahannock/" style="color:#1a2744;" target="_blank">Availability of Services: Evolving Demographics, Housing, and Traffic in Rappahannock County, Virginia</a>," University of Virginia Biocomplexity Institute (Summer 2021)</div>
+</div>
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px; margin-top:32px;">Oral Presentations</div>
+
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div style="margin-bottom:8px;">Transportation Disruptions and Corn Basis Volatility along the Mississippi River. <em>AAEA Meeting</em>, Denver, CO, 07/2025.</div>
+<div style="margin-bottom:8px;">An Analysis of Corn Basis Volatility Along the Mississippi. <em>Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management</em>, Chicago, IL, 04/2025.</div>
+<div style="margin-bottom:8px;">Exploring the Dynamics of the El Niño Southern Oscillation and Food Commodity Prices. Department of Agricultural &amp; Applied Economics, Virginia Tech, Blacksburg, VA, 11/2024.</div>
+<div style="margin-bottom:8px;">Exploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. <em>Virginia Association of Economists Annual Meeting</em>, Lexington, VA, 04/2024 &mdash; <strong>Best Paper Award</strong>.</div>
+<div style="margin-bottom:8px;">Exploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Graduate &amp; Professional Student Senate Research Symposium, Virginia Tech, 03/2024.</div>
+<div style="margin-bottom:8px;">Exploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. <em>Southern Agricultural Economics Association Meeting</em>, Atlanta, GA, 02/2024.</div>
+</div>
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px; margin-top:32px;">Poster Presentations</div>
+
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div style="margin-bottom:8px;"><a href="https://drive.google.com/file/d/1qhnWxfdtyRKEKiN6Aa3ogymtyq8OcJmS/view?usp=sharing" style="color:#1a2744;" target="_blank">Exploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model</a>. AAEA Meeting, New Orleans, LA, 07/2024.</div>
+</div>
+
+</div>

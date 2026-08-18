@@ -1,0 +1,60 @@
+---
+title: "Teaching"
+page-layout: full
+toc: false
+---
+
+<div style="max-width:900px; margin:40px auto; padding:0 20px;">
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px;">Instructor of Record</div>
+
+<div style="border:1px solid #dde3f0; border-radius:8px; padding:20px; margin-bottom:16px; background:#f8f9fc;">
+<div style="font-size:0.85rem; font-weight:600; color:#1a2744; margin-bottom:10px;">School of Business &amp; Technology, Seattle Pacific University</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div>ECN 2102: Principles of Microeconomics (Spring 2026, Fall 2026)</div>
+<div>ECN 3201: Intermediate Microeconomics (Winter 2026, 2027)</div>
+<div>BUS 2700: Statistics for Business and Economics (Spring 2026, Winter 2026, Fall 2025)</div>
+<div>ECN 3202: Intermediate Macroeconomics (Fall 2025, 2026)</div>
+</div>
+</div>
+
+<div style="border:1px solid #dde3f0; border-radius:8px; padding:20px; margin-bottom:20px; background:#f8f9fc;">
+<div style="font-size:0.85rem; font-weight:600; color:#1a2744; margin-bottom:10px;">Department of Agricultural and Applied Economics, Virginia Tech</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div>AAEC 1006: Macroeconomic Principles: Economics of the Food and Fiber System (Spring 2025)</div>
+</div>
+</div>
+
+<div style="font-size:0.75rem; font-weight:700; color:#1a2744; text-transform:uppercase; letter-spacing:0.06em; border-bottom:2px solid #1a2744; padding-bottom:6px; margin-bottom:16px; margin-top:32px;">Teaching Assistantships</div>
+
+<div style="border:1px solid #dde3f0; border-radius:8px; padding:20px; margin-bottom:16px; background:#f8f9fc;">
+<div style="font-size:0.85rem; font-weight:600; color:#1a2744; margin-bottom:10px;">Department of Agricultural and Applied Economics, Virginia Tech</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div>AAEC 5946: Econometric Theory &amp; Practice (Fall 2024)</div>
+<div>AAEC 5904: Project and Report &mdash; Graduate Capstone (Summer 2024, 2023)</div>
+<div>AAEC 5484/4484; STAT 5484: Applied Economic Forecasting, In-person (Spring 2024)</div>
+<div>AAEC 5484: Applied Economic Forecasting, Online (Spring 2024)</div>
+<div>AAEC 5014: Applied Economic Analytics (Fall 2023)</div>
+<div>AAEC 1006: Macroeconomic Principles &mdash; Co-instructor (Spring 2023, Fall 2022)</div>
+<div>AAEC 3424: Value-Based Management in Agribusiness &mdash; Guest Lecture (Spring 2023)</div>
+<div>AAEC 5804: Fundamentals of Econometrics, Online (Spring 2021)</div>
+<div>AAEC 5024: Mathematical Programming for Economists, Online (Fall 2020)</div>
+</div>
+</div>
+
+<div style="border:1px solid #dde3f0; border-radius:8px; padding:20px; margin-bottom:16px; background:#f8f9fc;">
+<div style="font-size:0.85rem; font-weight:600; color:#1a2744; margin-bottom:10px;">Department of Agricultural Economics, The University of Georgia, Athens</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div>AAEC 3690: Agribusiness Finance, Lab Sessions (Fall 2019)</div>
+</div>
+</div>
+
+<div style="border:1px solid #dde3f0; border-radius:8px; padding:20px; margin-bottom:20px; background:#f8f9fc;">
+<div style="font-size:0.85rem; font-weight:600; color:#1a2744; margin-bottom:10px;">Department of Agricultural Economics &amp; Agribusiness, University of Ghana, Legon</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div>AGEC 212: Macroeconomics &mdash; Principles &amp; Application to the Economy of Ghana (Spring 2018)</div>
+<div>AGEC 211: Microeconomics &mdash; Principles &amp; Application, Households &amp; Firms (Fall 2017)</div>
+</div>
+</div>
+
+</div>

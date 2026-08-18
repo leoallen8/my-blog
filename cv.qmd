@@ -1,0 +1,75 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div style="max-width:800px; margin:40px auto; padding:0 20px;">
+<div style="font-size:1.4rem; font-weight:700; color:#1a2744; margin-bottom:4px;">Leonard-Allen Quaye</div>
+<div style="font-size:0.88rem; color:#555; margin-bottom:16px;">LeoAllen@spu.edu | Seattle Pacific University</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px;">
+<div style="font-size:1rem; font-weight:700; color:#1a2744; margin-bottom:10px;">Current Position</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div><strong>Assistant Professor of Economics</strong> · College of Business &amp; Technology, Seattle Pacific University</div>
+</div>
+</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px;">
+<div style="font-size:1rem; font-weight:700; color:#1a2744; margin-bottom:10px;">Peer-Reviewed Journals</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div style="margin-bottom:8px;">Quaye, L.-A., and G. Kostandini. 2026. "Impact of Formal Household Land Ownership on Farm Productivity and Agriculture as a Primary Occupation of Youth in Ghana." <em>Agribusiness</em> 0: e70134. <a href="https://doi.org/10.1002/agr.70134" style="color:#1a2744;" target="_blank">doi.org/10.1002/agr.70134</a></div>
+</div>
+</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px;">
+<div style="font-size:1rem; font-weight:700; color:#1a2744; margin-bottom:10px;">Working Papers</div>
+<div style="font-size:0.88rem; color:#444; line-height:1.8;">
+<div style="margin-bottom:10px;"><strong>Exploring the Dynamics of the El Niño Southern Oscillation and Food Commodity Prices.</strong> Investigates the impact of ENSO on five major commodity prices (1980–2022) using STAR and STVECM models to capture nonlinear price dynamics.</div>
+<div style="margin-bottom:10px;"><strong>Down the Mississippi: How Barge Rates Affect Corn Basis.</strong> Uses a Spatial Durbin Model with weekly data (2014–2024) to examine how barge freight rates and spillover effects shape corn basis along the Mississippi River.</div>
+</div>
+</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px;">
+<div style="font-size:1rem; font-weight:700; color:#1a2744; margin-bottom:10px;">Policy Papers</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div style="margin-bottom:8px;">Gupta, A. and Quaye, L.-A., "Cost-benefit Analysis of WFP's Food Assistance for Assets projects: Evidence from Rwanda and Zimbabwe." UN World Food Programme. April 5, 2022.</div>
+</div>
+</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px;">
+<div style="font-size:1rem; font-weight:700; color:#1a2744; margin-bottom:10px;">Teaching Experience</div>
+<div style="font-size:0.88rem; color:#444; line-height:1.8;">
+<div style="margin-bottom:10px;"><strong>Instructor of Record | Seattle Pacific University</strong><br>ECN 2102: Principles of Microeconomics (Spring 2026, Fall 2026)<br>ECN 3201: Intermediate Microeconomics (Winter 2026, 2027)<br>BUS 2700: Statistics for Business and Economics (Spring 2026, Winter 2026, Fall 2025)<br>ECN 3202: Intermediate Macroeconomics (Fall 2025, 2026)</div>
+<div style="margin-bottom:10px;"><strong>Instructor of Record | Virginia Tech</strong><br>AAEC 1006: Macroeconomic Principles: Economics of the Food and Fiber System (Spring 2025)</div>
+<div style="margin-bottom:10px;"><strong>Teaching Assistant | Virginia Tech</strong><br>AAEC 5946 Econometric Theory &amp; Practice (Fall 2024) · AAEC 5904 Project and Report (Summer 2024, 2023) · AAEC 5484/4484 Applied Economic Forecasting (Spring 2024) · AAEC 5014 Applied Economic Analytics (Fall 2023) · AAEC 1006 Co-instructor (Spring 2023, Fall 2022) · AAEC 5804 Fundamentals of Econometrics (Spring 2021) · AAEC 5024 Mathematical Programming for Economists (Fall 2020)</div>
+<div style="margin-bottom:10px;"><strong>Teaching Assistant | University of Georgia, Athens</strong><br>AAEC 3690 Agribusiness Finance, Lab Sessions (Fall 2019)</div>
+<div style="margin-bottom:10px;"><strong>Teaching Assistant | University of Ghana, Legon</strong><br>AGEC 212 Macroeconomics (Spring 2018) · AGEC 211 Microeconomics (Fall 2017)</div>
+</div>
+</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px;">
+<div style="font-size:1rem; font-weight:700; color:#1a2744; margin-bottom:10px;">Oral Presentations</div>
+<div style="font-size:0.88rem; color:#444; line-height:2;">
+<div style="margin-bottom:8px;">Transportation Disruptions and Corn Basis Volatility along the Mississippi River. AAEA Meeting, Denver, CO, 07/2025.</div>
+<div style="margin-bottom:8px;">An Analysis of Corn Basis Volatility Along the Mississippi. Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management, Chicago, IL, 04/2025.</div>
+<div style="margin-bottom:8px;">Exploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Virginia Association of Economists Annual Meeting, Lexington, VA, 04/2024 — <strong>Best Paper Award</strong>.</div>
+<div style="margin-bottom:8px;">Exploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Southern Agricultural Economics Association Meeting, Atlanta, GA, 02/2024.</div>
+</div>
+</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px;">
+<div style="font-size:1rem; font-weight:700; color:#1a2744; margin-bottom:10px;">Skills</div>
+<div style="display:flex; gap:8px; flex-wrap:wrap;">
+<span style="background:#1a2744; color:white; font-size:0.8rem; padding:4px 12px; border-radius:4px;">R</span>
+<span style="background:#1a2744; color:white; font-size:0.8rem; padding:4px 12px; border-radius:4px;">Python</span>
+<span style="background:#1a2744; color:white; font-size:0.8rem; padding:4px 12px; border-radius:4px;">Stata</span>
+<span style="background:#1a2744; color:white; font-size:0.8rem; padding:4px 12px; border-radius:4px;">SQL</span>
+<span style="background:#1a2744; color:white; font-size:0.8rem; padding:4px 12px; border-radius:4px;">LaTeX</span>
+</div>
+</div>
+
+<div style="margin-top:24px; border-top:2px solid #1a2744; padding-top:12px; font-size:0.85rem; color:#666;">
+Full CV available <a href="https://drive.google.com/file/d/1aArGhH-Q_eJu1kGiisBi25a0dQ5PbGLQ/view?usp=drive_link" style="color:#1a2744;" target="_blank">here</a>.
+</div>
+</div>

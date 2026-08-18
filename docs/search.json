@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n\n\n\n\n  \n    Leonard-Allen Quaye\n  \n\n  \n    Assistant Professor of Economics ·\n    College of Business & Technology ·\n    Seattle Pacific University\n  \n\n  \n\n    \n      \n      Applied Econometrics\n    \n\n    \n      \n      Time Series Analysis\n    \n\n    \n      \n      Development Economics\n    \n\n    \n      \n      Agribusiness\n    \n\n  \n\n\n\n\n\n\n\n\n\n\n  \n\n    \n\n    \n\n      \n        I am an Assistant Professor of Economics in the College of Business\n        & Technology at Seattle Pacific University. I specialize in\n        Applied Econometrics, Time Series Analysis, Development Economics,\n        and Agribusiness.\n      \n\n      \n        I enjoy helping students connect economic ideas to the choices they\n        make every day, from how they spend their time and money to how global\n        events shape the prices they see at the store. My goal in the classroom\n        is to make economics approachable, engaging, and something students\n        can carry with them long after the course ends.\n      \n\n      \n        In my research, I specialize in Applied Econometrics, Time Series\n        Analysis, and Development Economics. My current research focuses on\n        how econometric models and time series data can help us understand\n        the forces behind food commodity prices.\n      \n\n      \n        Outside of work, I enjoy being outdoors, driving, traveling, hiking,\n        and playing sports. I also love following just about every sport.\n      \n\n      \n        Full CV available\n        \n          here\n        .\n      \n\n    \n\n  \n\n\n  \n\n  \n\n    \n      Connect with me\n    \n\n    \n\n      \n        Email\n      \n\n      \n        Twitter\n      \n\n      \n        LinkedIn\n      \n\n      \n        GitHub\n      \n\n      \n        Instagram\n      \n\n      \n        ORCID"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/first-analysis/index.html",
+    "href": "posts/first-analysis/index.html",
+    "title": "My First Python Analysis",
+    "section": "",
+    "text": "This is my first Python analysis post!\n\n\nCode\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\ndata = {\"Month\": [\"Jan\",\"Feb\",\"Mar\",\"Apr\"], \n        \"Value\": [120, 145, 133, 160]}\ndf = pd.DataFrame(data)\n\nfig, ax = plt.subplots(figsize=(7, 4))\nax.bar(df[\"Month\"], df[\"Value\"], color=\"#2563eb\")\nax.set_title(\"My First Chart\")\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "posts/first-analysis/index.html#introduction",
+    "href": "posts/first-analysis/index.html#introduction",
+    "title": "My First Python Analysis",
+    "section": "",
+    "text": "This is my first Python analysis post!\n\n\nCode\nimport matplotlib.pyplot as plt\nimport pandas as pd\n\ndata = {\"Month\": [\"Jan\",\"Feb\",\"Mar\",\"Apr\"], \n        \"Value\": [120, 145, 133, 160]}\ndf = pd.DataFrame(data)\n\nfig, ax = plt.subplots(figsize=(7, 4))\nax.bar(df[\"Month\"], df[\"Value\"], color=\"#2563eb\")\nax.set_title(\"My First Chart\")\nplt.tight_layout()\nplt.show()"
+  },
+  {
+    "objectID": "posts/first-analysis/index.html#conclusion",
+    "href": "posts/first-analysis/index.html#conclusion",
+    "title": "My First Python Analysis",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis is how easy it is to embed Python analysis in a blog post!"
+  },
+  {
+    "objectID": "causal-modeling.html",
+    "href": "causal-modeling.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n  Causal Modeling\n  Learning with Leo · Notes, tutorials, and resources on causal inference\n  \n    Potential Outcomes\n    DAGs\n    Difference-in-Differences\n    Instrumental Variables\n    Regression Discontinuity\n  \n\n\n\n  Content coming soon. Check back for notes and tutorials."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Peer-Reviewed Journals\n\n\n\nImpact of Formal Household Land Ownership on Farm Productivity and Agriculture as a Primary Occupation of Youth in Ghana\n\n\nQuaye, L.-A., and G. Kostandini.\n\n\nAgribusiness, 0: e70134 · 2026\n\nDevelopment Economics Agribusiness View Paper\n\n\nWorking Papers\n\n\n\nExploring the Dynamics of the El Niño Southern Oscillation and Food Commodity Prices\n\n\nThis study investigates the impact of ENSO on five major commodity prices from 1980 to 2022, using Smooth Transition Autoregressive (STAR) and Smooth Transition Vector Error Correction (STVECM) models to capture nonlinear dynamics and regime shifts triggered by ENSO shocks. Severe temperature deviations are associated with 10–20% price changes, with warmer phases (El Niño) generally lowering prices and cooler phases (La Niña) raising them — findings with significant implications for food security in import-dependent, low-income countries.\n\nTime Series Food Security Under Review\n\n\n\nDown the Mississippi: How Barge Rates Affect Corn Basis\n\n\nUsing weekly data from 2014 to 2024, this study applies a Spatial Durbin Model (SDM) with spatial and time fixed effects to examine how barge freight rates influence corn basis along the Mississippi River. Rising freight rates are associated with declining local corn basis, and significant spillover effects show that rate changes in one region affect basis values in neighboring markets.\n\nAgricultural Economics Spatial Econometrics\n\n\nPolicy Papers\n\n\n\nCost-benefit Analysis of WFP’s Food Assistance for Assets Projects: Evidence from Rwanda and Zimbabwe\n\n\nGupta, A. and Quaye, L.-A. · UN World Food Programme · April 5, 2022\n\n\n\nNon-Peer Reviewed Online Publications\n\n\n\nAbedin, N., Alwang, J., Chen, S., Fan, F., Liverpool, A., Navarette, J., Posadas, B., Quaye, L., & Tajanpure, P. (2022). Using Remote Sensed Data For Social & Economic Decision Making In Zimbabwe. University of Virginia Biocomplexity Institute.\n\n\nGupta, A., Kahsai, M., Pierce, T., Prisbe, C., Quaye, L., & Toure, M. (2021). Availability of Services: Evolving Demographics, Housing, & Traffic in Rappahannock County, VA. University of Virginia Biocomplexity Institute.\n\n\n\nResearch Projects\n\n\n\nData Science for the Public Good Project — “Using Remote Sensed Data for Social & Economic Decision Making in Zimbabwe,” University of Virginia Biocomplexity Institute (Summer 2022)\n\n\n“Cost-benefit Analysis of WFP’s Food Assistance for Assets projects: Evidence from Rwanda and Zimbabwe” with Anubhab Gupta (Fall 2021 – Spring 2022)\n\n\nData Science for the Public Good Project — “Availability of Services: Evolving Demographics, Housing, and Traffic in Rappahannock County, Virginia,” University of Virginia Biocomplexity Institute (Summer 2021)\n\n\n\nOral Presentations\n\n\n\nTransportation Disruptions and Corn Basis Volatility along the Mississippi River. AAEA Meeting, Denver, CO, 07/2025.\n\n\nAn Analysis of Corn Basis Volatility Along the Mississippi. Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management, Chicago, IL, 04/2025.\n\n\nExploring the Dynamics of the El Niño Southern Oscillation and Food Commodity Prices. Department of Agricultural & Applied Economics, Virginia Tech, Blacksburg, VA, 11/2024.\n\n\nExploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Virginia Association of Economists Annual Meeting, Lexington, VA, 04/2024 — Best Paper Award.\n\n\nExploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Graduate & Professional Student Senate Research Symposium, Virginia Tech, 03/2024.\n\n\nExploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Southern Agricultural Economics Association Meeting, Atlanta, GA, 02/2024.\n\n\n\nPoster Presentations\n\n\n\nExploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. AAEA Meeting, New Orleans, LA, 07/2024."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n\nLeonard-Allen Quaye\n\n\nLeoAllen@spu.edu | Seattle Pacific University\n\n\n\nCurrent Position\n\n\n\nAssistant Professor of Economics · College of Business & Technology, Seattle Pacific University\n\n\n\n\n\nPeer-Reviewed Journals\n\n\n\nQuaye, L.-A., and G. Kostandini. 2026. “Impact of Formal Household Land Ownership on Farm Productivity and Agriculture as a Primary Occupation of Youth in Ghana.” Agribusiness 0: e70134. doi.org/10.1002/agr.70134\n\n\n\n\n\nWorking Papers\n\n\n\nExploring the Dynamics of the El Niño Southern Oscillation and Food Commodity Prices. Investigates the impact of ENSO on five major commodity prices (1980–2022) using STAR and STVECM models to capture nonlinear price dynamics.\n\n\nDown the Mississippi: How Barge Rates Affect Corn Basis. Uses a Spatial Durbin Model with weekly data (2014–2024) to examine how barge freight rates and spillover effects shape corn basis along the Mississippi River.\n\n\n\n\n\nPolicy Papers\n\n\n\nGupta, A. and Quaye, L.-A., “Cost-benefit Analysis of WFP’s Food Assistance for Assets projects: Evidence from Rwanda and Zimbabwe.” UN World Food Programme. April 5, 2022.\n\n\n\n\n\nTeaching Experience\n\n\n\nInstructor of Record | Seattle Pacific UniversityECN 2102: Principles of Microeconomics (Spring 2026, Fall 2026)ECN 3201: Intermediate Microeconomics (Winter 2026, 2027)BUS 2700: Statistics for Business and Economics (Spring 2026, Winter 2026, Fall 2025)ECN 3202: Intermediate Macroeconomics (Fall 2025, 2026)\n\n\nInstructor of Record | Virginia TechAAEC 1006: Macroeconomic Principles: Economics of the Food and Fiber System (Spring 2025)\n\n\nTeaching Assistant | Virginia TechAAEC 5946 Econometric Theory & Practice (Fall 2024) · AAEC 5904 Project and Report (Summer 2024, 2023) · AAEC 5484/4484 Applied Economic Forecasting (Spring 2024) · AAEC 5014 Applied Economic Analytics (Fall 2023) · AAEC 1006 Co-instructor (Spring 2023, Fall 2022) · AAEC 5804 Fundamentals of Econometrics (Spring 2021) · AAEC 5024 Mathematical Programming for Economists (Fall 2020)\n\n\nTeaching Assistant | University of Georgia, AthensAAEC 3690 Agribusiness Finance, Lab Sessions (Fall 2019)\n\n\nTeaching Assistant | University of Ghana, LegonAGEC 212 Macroeconomics (Spring 2018) · AGEC 211 Microeconomics (Fall 2017)\n\n\n\n\n\nOral Presentations\n\n\n\nTransportation Disruptions and Corn Basis Volatility along the Mississippi River. AAEA Meeting, Denver, CO, 07/2025.\n\n\nAn Analysis of Corn Basis Volatility Along the Mississippi. Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management, Chicago, IL, 04/2025.\n\n\nExploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Virginia Association of Economists Annual Meeting, Lexington, VA, 04/2024 — Best Paper Award.\n\n\nExploring the Dynamics of Food Commodity Prices and Weather Anomalies using a STAR model. Southern Agricultural Economics Association Meeting, Atlanta, GA, 02/2024.\n\n\n\n\n\nSkills\n\n\nR Python Stata SQL LaTeX\n\n\n\nFull CV available here."
+  },
+  {
+    "objectID": "time-series.html",
+    "href": "time-series.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n  Time Series Forecasting\n  Learning with Leo · Forecasting methods and temporal data analysis\n  \n    ARIMA\n    VAR Models\n    Cointegration\n    State Space Models\n    Forecasting\n  \n\n\n\n  Content coming soon. Check back for notes and tutorials."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Welcome to My Blog!",
+    "section": "",
+    "text": "Welcome! I am Leonard-Allen Quaye, an Assistant Professor of Economics in the College of Business & Technology at Seattle Pacific University. This site is where I share my research on applied econometrics, time series analysis, development economics, and agribusiness, along with course materials for my students."
+  },
+  {
+    "objectID": "blog.html#what-you-will-find-here",
+    "href": "blog.html#what-you-will-find-here",
+    "title": "Welcome to My Blog!",
+    "section": "What You Will Find Here",
+    "text": "What You Will Find Here\n\nResearch — working papers, published work and ongoing projects\nTeaching — course materials, lecture notes and problem sets\nBlog Posts — data analysis tutorials using Python and Stata\nCode — reproducible econometric analysis and visualizations\n\nFeel free to reach out at LeoAllen@spu.edu for collaborations or questions!"
+  },
+  {
+    "objectID": "big-data-ml.html",
+    "href": "big-data-ml.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\n  Big Data & Machine Learning\n  Learning with Leo · Practical ML methods for economists and social scientists\n  \n    Supervised Learning\n    Regularization\n    Random Forests\n    Neural Networks\n    Big Data Tools\n  \n\n\n\n  Content coming soon. Check back for notes and tutorials."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor of Record\n\n\n\nSchool of Business & Technology, Seattle Pacific University\n\n\n\nECN 2102: Principles of Microeconomics (Spring 2026, Fall 2026)\n\n\nECN 3201: Intermediate Microeconomics (Winter 2026, 2027)\n\n\nBUS 2700: Statistics for Business and Economics (Spring 2026, Winter 2026, Fall 2025)\n\n\nECN 3202: Intermediate Macroeconomics (Fall 2025, 2026)\n\n\n\n\n\nDepartment of Agricultural and Applied Economics, Virginia Tech\n\n\n\nAAEC 1006: Macroeconomic Principles: Economics of the Food and Fiber System (Spring 2025)\n\n\n\n\nTeaching Assistantships\n\n\n\nDepartment of Agricultural and Applied Economics, Virginia Tech\n\n\n\nAAEC 5946: Econometric Theory & Practice (Fall 2024)\n\n\nAAEC 5904: Project and Report — Graduate Capstone (Summer 2024, 2023)\n\n\nAAEC 5484/4484; STAT 5484: Applied Economic Forecasting, In-person (Spring 2024)\n\n\nAAEC 5484: Applied Economic Forecasting, Online (Spring 2024)\n\n\nAAEC 5014: Applied Economic Analytics (Fall 2023)\n\n\nAAEC 1006: Macroeconomic Principles — Co-instructor (Spring 2023, Fall 2022)\n\n\nAAEC 3424: Value-Based Management in Agribusiness — Guest Lecture (Spring 2023)\n\n\nAAEC 5804: Fundamentals of Econometrics, Online (Spring 2021)\n\n\nAAEC 5024: Mathematical Programming for Economists, Online (Fall 2020)\n\n\n\n\n\nDepartment of Agricultural Economics, The University of Georgia, Athens\n\n\n\nAAEC 3690: Agribusiness Finance, Lab Sessions (Fall 2019)\n\n\n\n\n\nDepartment of Agricultural Economics & Agribusiness, University of Ghana, Legon\n\n\n\nAGEC 212: Macroeconomics — Principles & Application to the Economy of Ghana (Spring 2018)\n\n\nAGEC 211: Microeconomics — Principles & Application, Households & Firms (Fall 2017)"
+  }
+]

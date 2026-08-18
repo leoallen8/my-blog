@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+
+website:
+  title: "Leonard-Allen Quaye"
+  navbar:
+    background: "#1a2744"
+    foreground: "white"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - text: "Learning with Leo"
+        menu:
+          - text: "Causal Modeling"
+            href: causal-modeling.qmd
+          - text: "Big Data & Machine Learning"
+            href: big-data-ml.qmd
+          - text: "Time Series Forecasting"
+            href: time-series.qmd
+    right:
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    toc: false
+    code-fold: true
+    code-tools: true
+
+execute:
+  freeze: auto

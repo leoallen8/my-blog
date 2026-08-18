@@ -1,0 +1,18 @@
+---
+title: "Welcome to My Blog!"
+date: "2026-04-11"
+categories: [Welcome]
+description: "A brief introduction to who I am and what this blog is about"
+image: "../../profile.jpg"
+---
+
+Welcome! I am Leonard-Allen Quaye, an Assistant Professor of Economics in the College of Business & Technology at Seattle Pacific University. This site is where I share my research on applied econometrics, time series analysis, development economics, and agribusiness, along with course materials for my students.
+
+## What You Will Find Here
+
+- **Research** — working papers, published work and ongoing projects
+- **Teaching** — course materials, lecture notes and problem sets
+- **Blog Posts** — data analysis tutorials using Python and Stata
+- **Code** — reproducible econometric analysis and visualizations
+
+Feel free to reach out at LeoAllen@spu.edu for collaborations or questions!

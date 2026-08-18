@@ -1,0 +1,234 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+```{=html}
+<style>
+.profile-section {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.profile-layout {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+}
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 20%;
+  border: 4px solid #1a2744;
+  flex-shrink: 0;
+  display: block;
+}
+
+.profile-text {
+  flex: 1;
+  min-width: 0;
+}
+
+
+/* On phones, move the picture above the text */
+@media (max-width: 600px) {
+
+  .profile-layout {
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .profile-image {
+    width: 200px;
+    height: 200px;
+  }
+
+  .profile-text {
+    width: 100%;
+  }
+
+}
+</style>
+
+
+<div class="hero-banner">
+
+  <div class="hero-name">
+    Leonard-Allen Quaye
+  </div>
+
+  <div class="hero-role">
+    Assistant Professor of Economics &middot;
+    College of Business &amp; Technology &middot;
+    Seattle Pacific University
+  </div>
+
+  <div class="hero-tags">
+
+    <span class="hero-tag">
+      <span class="dot" style="background:#60a5fa;"></span>
+      Applied Econometrics
+    </span>
+
+    <span class="hero-tag">
+      <span class="dot" style="background:#34d399;"></span>
+      Time Series Analysis
+    </span>
+
+    <span class="hero-tag">
+      <span class="dot" style="background:#f59e0b;"></span>
+      Development Economics
+    </span>
+
+    <span class="hero-tag">
+      <span class="dot" style="background:#a78bfa;"></span>
+      Agribusiness
+    </span>
+
+  </div>
+
+<!--
+  <div class="hero-contact">
+    <a href="mailto:LeoAllen@spu.edu">LeoAllen@spu.edu</a>
+    &nbsp;&middot;&nbsp; Seattle Pacific University
+  </div>
+-->
+
+</div>
+
+
+<!-- =========================
+     PROFILE SECTION
+     ========================= -->
+
+<div class="profile-section">
+
+  <div class="profile-layout">
+
+    <img
+      src="profile.jpg"
+      alt="Leonard-Allen Quaye"
+      class="profile-image"
+    >
+
+    <div class="profile-text">
+
+      <div style="font-size:0.9rem; color:#444; line-height:1.8; margin-bottom:16px;">
+        I am an Assistant Professor of Economics in the College of Business
+        &amp; Technology at Seattle Pacific University. I specialize in
+        Applied Econometrics, Time Series Analysis, Development Economics,
+        and Agribusiness.
+      </div>
+
+      <div style="font-size:0.9rem; color:#444; line-height:1.8; margin-bottom:16px;">
+        I enjoy helping students connect economic ideas to the choices they
+        make every day, from how they spend their time and money to how global
+        events shape the prices they see at the store. My goal in the classroom
+        is to make economics approachable, engaging, and something students
+        can carry with them long after the course ends.
+      </div>
+
+      <div style="font-size:0.9rem; color:#444; line-height:1.8; margin-bottom:16px;">
+        In my research, I specialize in Applied Econometrics, Time Series
+        Analysis, and Development Economics. My current research focuses on
+        how econometric models and time series data can help us understand
+        the forces behind food commodity prices.
+      </div>
+
+      <div style="font-size:0.9rem; color:#444; line-height:1.8; margin-bottom:16px;">
+        Outside of work, I enjoy being outdoors, driving, traveling, hiking,
+        and playing sports. I also love following just about every sport.
+      </div>
+
+      <div>
+        Full CV available
+        <a
+          href="https://drive.google.com/file/d/1aArGhH-Q_eJu1kGiisBi25a0dQ5PbGLQ/view?usp=drive_link"
+          style="color:#1a2744;"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          here
+        </a>.
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <!-- =========================
+       CONNECT SECTION
+       ========================= -->
+
+  <div style="margin-top:32px; border-top:2px solid #1a2744; padding-top:16px;">
+
+    <div style="font-size:1rem; font-weight:600; color:#1a2744; margin-bottom:12px;">
+      Connect with me
+    </div>
+
+    <div style="display:flex; gap:10px; flex-wrap:wrap;">
+
+      <a
+        href="mailto:LeoAllen@spu.edu"
+        style="font-size:0.82rem; color:#1a2744; text-decoration:none; border:1px solid #1a2744; padding:5px 12px; border-radius:4px;"
+      >
+        Email
+      </a>
+
+      <a
+        href="https://twitter.com/allenquaye"
+        style="font-size:0.82rem; color:#1a2744; text-decoration:none; border:1px solid #1a2744; padding:5px 12px; border-radius:4px;"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Twitter
+      </a>
+
+      <a
+        href="https://www.linkedin.com/in/leonard-allen-quaye"
+        style="font-size:0.82rem; color:#1a2744; text-decoration:none; border:1px solid #1a2744; padding:5px 12px; border-radius:4px;"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        LinkedIn
+      </a>
+
+      <a
+        href="https://github.com/leoallen8"
+        style="font-size:0.82rem; color:#1a2744; text-decoration:none; border:1px solid #1a2744; padding:5px 12px; border-radius:4px;"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        GitHub
+      </a>
+
+      <a
+        href="https://www.instagram.com/leoallenard/"
+        style="font-size:0.82rem; color:#1a2744; text-decoration:none; border:1px solid #1a2744; padding:5px 12px; border-radius:4px;"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Instagram
+      </a>
+
+      <a
+        href="https://orcid.org/0009-0005-4305-0598"
+        style="font-size:0.82rem; color:#1a2744; text-decoration:none; border:1px solid #1a2744; padding:5px 12px; border-radius:4px;"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        ORCID
+      </a>
+
+    </div>
+
+  </div>
+
+</div>
+```
