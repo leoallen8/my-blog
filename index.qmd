@@ -6,7 +6,7 @@ toc: false
 ```{=html}
 <style>
 .profile-section {
-  max-width: 800px;
+  max-width: 1800px;
   margin: 40px auto;
   padding: 0 20px;
 }
@@ -18,8 +18,9 @@ toc: false
 }
 
 .profile-image {
-  width: 200px;
-  height: 200px;
+  width: 350px;
+  height: 350px;
+  margin-top: 10px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center 20%;
@@ -68,36 +69,77 @@ toc: false
     Seattle Pacific University
   </div>
 
+
+<div style="margin-top:18px;">
+
+  <div style="font-size:0.85rem; font-weight:600; color:#ffffff; margin-bottom:8px;">
+    Research Interests
+  </div>
+  
+<div class="hero-tags">
+
+  <span class="hero-tag">
+    <span class="dot" style="background:#60a5fa;"></span>
+    Applied Econometrics
+  </span>
+
+  <span class="hero-tag">
+    <span class="dot" style="background:#34d399;"></span>
+    Time Series Analysis
+  </span>
+
+  <span class="hero-tag">
+    <span class="dot" style="background:#f59e0b;"></span>
+    Development Economics
+  </span>
+
+  <span class="hero-tag">
+    <span class="dot" style="background:#a78bfa;"></span>
+    Agribusiness
+  </span>
+
+</div>
+</div>
+
+
+<div style="margin-top:18px;">
+
+  <div style="font-size:0.85rem; font-weight:600; color:#ffffff; margin-bottom:8px;">
+    Skills
+  </div>
+
   <div class="hero-tags">
 
     <span class="hero-tag">
-      <span class="dot" style="background:#60a5fa;"></span>
-      Applied Econometrics
+      R
     </span>
 
     <span class="hero-tag">
-      <span class="dot" style="background:#34d399;"></span>
-      Time Series Analysis
+      Python
     </span>
 
     <span class="hero-tag">
-      <span class="dot" style="background:#f59e0b;"></span>
-      Development Economics
+      Stata
     </span>
 
     <span class="hero-tag">
-      <span class="dot" style="background:#a78bfa;"></span>
-      Agribusiness
+      SQL
+    </span>
+
+    <span class="hero-tag">
+      LaTeX
     </span>
 
   </div>
 
-<!--
-  <div class="hero-contact">
+</div>
+
+
+<!--  <span class="hero-tag">
     <a href="mailto:LeoAllen@spu.edu">LeoAllen@spu.edu</a>
     &nbsp;&middot;&nbsp; Seattle Pacific University
-  </div>
--->
+  </span>-->
+  
 
 </div>
 
